@@ -1,0 +1,39 @@
+# Binaries
+*.bin
+*.dll
+*.so
+*.dylib
+*.o
+
+# Build artifacts
+bin/
+obj/
+build/
+dist/
+
+# IDE
+.vs/
+.vscode/
+*.csproj.user
+*.sln.DotSettings.user
+idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# User data
+config/
+profiles/
+save/

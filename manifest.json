@@ -1,0 +1,9 @@
+{
+  "name": "PNGSUS - Gorilla Tag Mod Menu",
+  "version_number": "2.5.0",
+  "website_url": "https://github.com/Meltixx/PNGSUS",
+  "description": "The ultimate Gorilla Tag mod menu with 600+ mods across 12 categories featuring a stunning multi-page UI system",
+  "dependencies": [
+    "BepInEx-BepInExPack_GorillaTag-5.4.800"
+  ]
+}
